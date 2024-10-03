@@ -4,6 +4,6 @@ A large bank has asked us to evaluate the marketing algorithms they use for reta
 
 Management is now interested in finding out how a classification model can lead to certain decision-making processes. 
 
-i Create a classification model in Python.  using  SkLearn libraries ,  
+i Created a classification model in Python.  using libraries such as pandas,sklearn, numpy.
 i Analysed the model and provide insight into which features/variables influence the outcome of the classification the most: on a global level, and specifically for observation #4 and #20.
 i Developed some  plot  with brief comments on your observations. 
